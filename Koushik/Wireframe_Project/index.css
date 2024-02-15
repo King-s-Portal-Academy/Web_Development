@@ -1,12 +1,33 @@
-.c1_img{
-    width: 250px; 
-    height: 250px;
+.card{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
 }
 .card-1{
-    border-radius: 8;
+    border-radius: 8px;
     width: 1105.7px;
     height: 464px;
     background-color: rgba(0, 0, 0, 0.250);
+    display: flex;
+    padding: 32px 56px 32px 0px;
+    align-items: center;
+}
+#c1_img
+{
+    width: 568px;
+    height: 400px;
+    
+   
+}
+.c2_info
+{
+    margin-left: 56px;
+}
+#icon_info
+{
+    width: 64px;
+    height: 64px;
+    
 }
 .top{
     width: 250px;
