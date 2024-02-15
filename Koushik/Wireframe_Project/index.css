@@ -1,11 +1,20 @@
-
+.c1_img{
+    width: 250px; 
+    height: 250px;
+}
+.card-1{
+    border-radius: 8;
+    width: 1105.7px;
+    height: 464px;
+    background-color: rgba(0, 0, 0, 0.250);
+}
 .top{
     width: 250px;
     height: 250px;
     margin: 6px;
     margin-bottom: 30px;
 }
-#bot{
+.bot{
     width: 250px;
     height: 250px;
     margin: 6px;
